@@ -4,6 +4,8 @@
 - 🌱 I’m currently learning **NodeJS** and **React framework**
 - 💬 Ask me about **Python, JavaScript, Ethical Hacking, Blockchain, Opensource :octocat:**
 
+<!-- ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) -->
+
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=ialtafshaikh&show_icons=true&theme=radical&line_height=27">
 </p>

@@ -40,5 +40,7 @@
 -->
 
 
-**Thanks For Visiting My Profile ❤️** 
 
+<p align="center">
+  <b>Thanks For Visiting My Profile ❤️</b>
+</p>
